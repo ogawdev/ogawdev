@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogabekmengn1yozov&show_icons=true&locale=en" alt="ogabekmengn1yozov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogabekmengn1yozov&" alt="ogabekmengn1yozov" /></p>
+
+![200805400-34609cc5-9a38-42db-8003-318eb1613814](https://user-images.githubusercontent.com/89186444/200818588-07216cf9-b659-4a41-ac5d-9a9840ab417d.svg)
+
