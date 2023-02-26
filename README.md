@@ -22,6 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogabekmengn1yozov&show_icons=true&locale=en" alt="ogabekmengn1yozov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogabekmengn1yozov&" alt="ogabekmengn1yozov" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogaw&" alt="ogaw" /></p>
 
 
